@@ -4,7 +4,6 @@
   "description": "<h1 align=\"center\">   <img alt=\"JobsCalc\" title=\"JobsCalc\" src=\"https://i.imgur.com/Veqm7Gh.png\" width=\"220px\" /> </h1>",
   "main": "src/server.js",
   "scripts": {
-    "start": "node server.js",
     "dev": "nodemon .",
     "init-db": "node src/db/init.js"
   },
